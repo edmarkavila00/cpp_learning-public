@@ -220,15 +220,5 @@ with manual workflow checks and user evaluation before a capstone defense.
   method and results, and obtain any required adviser/institution approval
   before collecting participant data.
 
-## Suggested capstone demonstration
-
-1. Register/sign in and show the learner dashboard and profile/progress.
-2. Complete a challenge, demonstrate feedback/progression, and open the review
-   queue.
-3. Run a correct and an incorrect C++17 program in Code Lab.
-4. Show the Adventure or co-op flow, then demonstrate a study-group assignment.
-5. Explain the architecture, data model, runner isolation boundaries, test
-   results, user evaluation, and known limitations.
-
 For the runner's detailed setup and isolation behavior, see
 [code_runner/README.md](./code_runner/README.md).
